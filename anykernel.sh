@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kernel by Aqua
+kernel.string=A11 kernel by Aqua
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=rosemary
-device.name2=
-device.name3=
+device.name1=lancelot 
+device.name2=lava
+device.name3=shiva
 device.name4=
 device.name5=
 supported.versions=
