@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=A11 kernel by Aqua
+kernel.string=BlackSapphire kernel by Aqua 
 do.devicecheck=1
 do.modules=0
 do.systemless=1
