@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=BlackSapphire kernel by Aqua 
+kernel.string=Batubulan Broken Kernel by Tahu Gehot | SKG
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=lancelot 
-device.name2=lava
-device.name3=shiva
+device.name1=moonstone 
+device.name2=sunstone
+device.name3=stone
 device.name4=
 device.name5=
 supported.versions=
@@ -21,7 +21,7 @@ supported.patchlevels=
 
 # shell variables
 block=/dev/block/by-name/boot;
-is_slot_device=0;
+is_slot_device=1;
 ramdisk_compression=auto;
 
 
