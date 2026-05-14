@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=LineageOS kernel by Its_Vixano @ XDA
+kernel.string=Protium Kernel by Vedraj Gawas
 do.devicecheck=1
 device.name1=moonstone
 device.name2=sunstone
